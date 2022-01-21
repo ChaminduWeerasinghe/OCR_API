@@ -1,0 +1,9 @@
+Sri Lanka Institute of Information
+Technology
+Stress Analysis and Care Prediction
+System for Online Workers
+Function
+Track and analyze person
+keystrokes to
+identify stress, fatigue level and give stress or fatigue
+relief tips
